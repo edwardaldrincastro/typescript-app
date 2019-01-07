@@ -1,0 +1,3 @@
+rootProject.name = 'TypescriptApp'
+
+include ':app'
